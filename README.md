@@ -19,7 +19,7 @@ Struggling with writer's block? Need that perfect hook or progression to bring y
 
 ## 🚀 How to Use:
 
-1. **Launch the Tool:** Open the **Songwriter!** web application.
+1. **Launch the Tool:** Open the **Songwriter!** web application: https://cs8395-08-demogpt.streamlit.app/
 2. **Enter Your Idea:** In the provided text box, type in a mood, word, theme, or a song idea that you want to base your song on.
 3. **Decision Time:** If you want the complete lyrics to be generated based on the hook and progression, type in an affirmative response in the next text box.
 4. **Generate Song:** Click on the 'Generate Song' button. Voilà! Your song's 'hook', chord progression, and (if opted) complete lyrics will be displayed on the screen.
